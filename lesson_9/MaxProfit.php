@@ -1,16 +1,14 @@
 <?php
-
 function solution($A)
 {
-    $sum = 0;
-    for($i=0; $i < count($A); $i++) {
-        for($z=($i+1); $z < count($A); $z++) {
-            if (($A[$z] - $A[$i]) > $sum) {
-                $sum = ($A[$z] - $A[$i]);
-            }
-        }
+    $max_sum = 0;
+    $min = $A[0];
+
+    for($i=1; $i < count($A); $i++) {
+        $min = min($min, $A[$i]);
+        $max_sum = max($max_sum, ($A[$i]-$min));
     }
-    return $sum;
+    return $max_sum;
 }
 
 echo solution([23171, 21011, 21123, 21366, 21013, 21367]); // 356
