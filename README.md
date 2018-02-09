@@ -2,5 +2,5 @@
 
 ## Lesson 9
 * MaxSliceSum
-* MaxProfit :heavy_check_mark:
+* [MaxProfit](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/) :heavy_check_mark:
 * MaxDoubleSliceSum
