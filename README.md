@@ -30,3 +30,5 @@
 * [MaxProfit](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/) :heavy_check_mark:
 * MaxDoubleSliceSum
 
+# License
+The source code is licensed under the terms of the [MIT license](https://opensource.org/licenses/MIT).
