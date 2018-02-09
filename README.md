@@ -1,6 +1,7 @@
 # Codility
 
 ## Lesson 1
+* [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/)
 ## Lesson 2
 * [OddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/) :heavy_check_mark:
 * [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/) :heavy_check_mark:
@@ -24,11 +25,27 @@
 * [MaxProductOfThree](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/)
 * [NumberOfDiscIntersections](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/)
 ## Lesson 7
+* [Brackets](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/) :heavy_check_mark:
+* [StoneWall](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/)
+* [Fish](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/)
+* [Nesting](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/) :heavy_check_mark:
 ## Lesson 8
+* [EquiLeader](https://app.codility.com/programmers/lessons/8-leader/equi_leader/)
+* [Dominator](https://app.codility.com/programmers/lessons/8-leader/dominator/) :heavy_check_mark:
 ## Lesson 9
-* MaxSliceSum
+* [MaxSliceSum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/)
 * [MaxProfit](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_profit/) :heavy_check_mark:
-* MaxDoubleSliceSum
+* [MaxDoubleSliceSum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/)
+## Lesson 10
+* [CountFactors](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)
+* [MinPerimeterRectangle](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/)
+* [Peaks](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/peaks/)
+* [Flags](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/)
+## Lesson 11
+* [CountSemiprimes](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_semiprimes/)
+* [CountNonDivisible](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_non_divisible/)
+
+...
 
 # License
 The source code is licensed under the terms of the [MIT license](https://opensource.org/licenses/MIT).
