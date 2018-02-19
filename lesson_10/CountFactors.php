@@ -7,7 +7,6 @@ function solution($N)
     for($i=1; $i<=$N; $i++) {
         if (0 === ($N % $i)) {
             $factors++;
-            $N = $N / $i;
         }
     }
 
