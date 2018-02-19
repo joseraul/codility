@@ -1,7 +1,10 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Jose Raul
- * Date: 10/02/2018
- * Time: 16:44
- */
+
+function solution($A) {
+    $max_sum = 0;
+    for($i=0; $i<count($A); $i++) {
+
+    }
+}
+
+echo solution([4, 3, 4, 4, 4, 2]);
